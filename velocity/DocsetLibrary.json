@@ -1,0 +1,373 @@
+{
+  "LastUpdateCheck": "0001-01-01T00:00:00+00:00",
+  "Version": 1,
+  "Docsets": [
+    {
+      "Key": 1,
+      "Source": "Dash",
+      "Id": "Ansible",
+      "Version": "2.6.1",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Ansible.docset",
+      "IconId": "DashDocsetIcon:ansible",
+      "StartPage": "docs.ansible.com/ansible/latest/modules/modules_by_category.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 2,
+      "Source": "Dash",
+      "Id": "Gradle_User_Guide",
+      "Version": "4.9.0",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Gradle_User_Guide.docset",
+      "IconId": "DashDocsetIcon:gradle",
+      "StartPage": "userguide/userguide.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 3,
+      "Source": "Dash",
+      "Id": "Gradle_Groovy_API",
+      "Version": "2.14.1",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Gradle_Groovy_API.docset",
+      "IconId": "DashDocsetIcon:gradle",
+      "StartPage": "overview-summary.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 4,
+      "Source": "Dash",
+      "Id": "Gradle_DSL",
+      "Version": "4.9.0",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Gradle_DSL.docset",
+      "IconId": "DashDocsetIcon:gradle",
+      "StartPage": "dsl/index.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 5,
+      "Source": "Dash",
+      "Id": "Gradle_Java_API",
+      "Version": "4.9.0",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Gradle_Java_API.docset",
+      "IconId": "DashDocsetIcon:gradle",
+      "StartPage": "overview-summary.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 6,
+      "Source": "Dash",
+      "Id": "HTML",
+      "Version": "/58",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\HTML.docset",
+      "IconId": "DashDocsetIcon:html",
+      "StartPage": "developer.mozilla.org/en-US/docs/Web/HTML/Element.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 7,
+      "Source": "Dash",
+      "Id": "Jinja",
+      "Version": "2.10.0/2",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Jinja.docset",
+      "IconId": "DashDocsetIcon:jinja",
+      "StartPage": "jinja.pocoo.org/docs/dev/index.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 8,
+      "Source": "Dash",
+      "Id": "Java_SE8",
+      "Version": "/24",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Java_SE8.docset",
+      "IconId": "DashDocsetIcon:java",
+      "StartPage": "overview-summary.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 9,
+      "Source": "Dash",
+      "Id": "NodeJS",
+      "Version": "10.7.0",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\NodeJS.docset",
+      "IconId": "DashDocsetIcon:nodejs",
+      "StartPage": "nodejs/api/documentation.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 10,
+      "Source": "Dash",
+      "Id": "Python_2",
+      "Version": ".7.15",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Python_2.docset",
+      "IconId": "DashDocsetIcon:python",
+      "StartPage": "doc/index.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 11,
+      "Source": "Dash",
+      "Id": "Python_3",
+      "Version": ".7.0",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Python_3.docset",
+      "IconId": "DashDocsetIcon:python",
+      "StartPage": "doc/index.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 12,
+      "Source": "Dash",
+      "Id": "TypeScript",
+      "Version": "2.9/2",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\TypeScript.docset",
+      "IconId": "DashDocsetIcon:typescript",
+      "StartPage": "www.typescriptlang.org/docs/home.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 13,
+      "Source": "Dash",
+      "Id": "Spring_Framework",
+      "Version": "5.0.7",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Spring_Framework.docset",
+      "IconId": "DashDocsetIcon:spring",
+      "StartPage": "overview-summary.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 14,
+      "Source": "Dash",
+      "Id": "Vagrant",
+      "Version": "2.1.2",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Vagrant.docset",
+      "IconId": "DashDocsetIcon:vagrant",
+      "StartPage": "www.vagrantup.com/docs/index.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 15,
+      "Source": "Dash",
+      "Id": "Vim",
+      "Version": "8.1",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Vim.docset",
+      "IconId": "DashDocsetIcon:vim",
+      "StartPage": "index.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 16,
+      "Source": "Dash",
+      "Id": "Emacs_Lisp",
+      "Version": "/11",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Emacs_Lisp.docset",
+      "IconId": "DashDocsetIcon:elisp",
+      "StartPage": "elisp/Introduction.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 17,
+      "Source": "Dash",
+      "Id": "Docker",
+      "Version": "18.06.0",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\Docker.docset",
+      "IconId": "DashDocsetIcon:docker",
+      "StartPage": "docs.docker.com.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 18,
+      "Source": "DashUserContrib",
+      "Id": "Bulma",
+      "Version": "0.7.1",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\DashUserContrib\\Bulma.docset",
+      "IconId": "Local: C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\DashUserContrib\\Bulma.docset\\icon.png",
+      "StartPage": "bulma.io/my-documentation/docs/overview.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 19,
+      "Source": "DashUserContrib",
+      "Id": "Guava",
+      "Version": "18.0",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\DashUserContrib\\Guava.docset",
+      "IconId": "DashOtherIcon:docset",
+      "StartPage": "overview-summary.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 20,
+      "Source": "DashUserContrib",
+      "Id": "kafka",
+      "Version": "0.11.1.0",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\DashUserContrib\\kafka.docset",
+      "IconId": "Local: C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\DashUserContrib\\kafka.docset\\icon.png",
+      "StartPage": "overview-summary.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 21,
+      "Source": "DashUserContrib",
+      "Id": "Kubernetes",
+      "Version": "1.11.1",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\DashUserContrib\\Kubernetes.docset",
+      "IconId": "Local: C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\DashUserContrib\\Kubernetes.docset\\icon.png",
+      "StartPage": "api-reference/v1/definitions.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 22,
+      "Source": "DashUserContrib",
+      "Id": "npm",
+      "Version": "3.7.3",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\DashUserContrib\\npm.docset",
+      "IconId": "Local: C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\DashUserContrib\\npm.docset\\icon.png",
+      "StartPage": "index.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 23,
+      "Source": "DashUserContrib",
+      "Id": "Org_Mode",
+      "Version": "8.2.10",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\DashUserContrib\\Org_Mode.docset",
+      "IconId": "Local: C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\DashUserContrib\\Org_Mode.docset\\icon.png",
+      "StartPage": "orgmode/manual/index.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    },
+    {
+      "Key": 24,
+      "Source": "Dash",
+      "Id": "VueJS",
+      "Version": "2.5.16/2",
+      "InstallPath": "C:\\Users\\jburwell\\AppData\\Local\\Silverlake Software LLC\\Velocity\\Docsets\\Dash\\VueJS.docset",
+      "IconId": "DashDocsetIcon:vue",
+      "StartPage": "vuejs.org/index.html",
+      "IndexVersion": 4,
+      "StorageVersion": 1
+    }
+  ],
+  "Profiles": [
+    {
+      "Name": "Default",
+      "Entries": [
+        {
+          "Key": 1,
+          "Enabled": true
+        },
+        {
+          "Key": 2,
+          "Enabled": true
+        },
+        {
+          "Key": 3,
+          "Enabled": true
+        },
+        {
+          "Key": 4,
+          "Enabled": true
+        },
+        {
+          "Key": 5,
+          "Enabled": true
+        },
+        {
+          "Key": 6,
+          "Enabled": true
+        },
+        {
+          "Key": 7,
+          "Enabled": true
+        },
+        {
+          "Key": 8,
+          "Enabled": true
+        },
+        {
+          "Key": 9,
+          "Enabled": true
+        },
+        {
+          "Key": 10,
+          "Enabled": true
+        },
+        {
+          "Key": 11,
+          "Enabled": true
+        },
+        {
+          "Key": 12,
+          "Enabled": true
+        },
+        {
+          "Key": 13,
+          "Enabled": true
+        },
+        {
+          "Key": 14,
+          "Enabled": true
+        },
+        {
+          "Key": 15,
+          "Enabled": true
+        },
+        {
+          "Key": 16,
+          "Enabled": true
+        },
+        {
+          "Key": 17,
+          "Enabled": true
+        },
+        {
+          "Key": 18,
+          "Enabled": true
+        },
+        {
+          "Key": 19,
+          "Enabled": true
+        },
+        {
+          "Key": 20,
+          "Enabled": true
+        },
+        {
+          "Key": 21,
+          "Enabled": true
+        },
+        {
+          "Key": 22,
+          "Enabled": true
+        },
+        {
+          "Key": 23,
+          "Enabled": true
+        },
+        {
+          "Key": 24,
+          "Enabled": true
+        }
+      ]
+    }
+  ]
+}
