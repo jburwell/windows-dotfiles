@@ -1,0 +1,28 @@
+[user]
+  name = John Burwell
+  email = $email_address
+[github]
+  user = jburwell
+[push]
+  default = current
+[color]
+  ui = true
+[core]
+  excludesfile = ~/.gitignore
+merge]
+  tool = kdiff3
+[mergetool "kdiff3"]
+  path = C:/Program Files/KDiff3/kdiff3.exe
+  trustExitCode = false
+[diff]
+  guitool = kdiff3
+[difftool "kdiff3"]
+  path = C:/Program Files/KDiff3/kdiff3.exe
+  trustExitCode = false
+[alias]
+  aliases = config --get-regexp alias
+  gh-force-ci = "!git commit --amend --no-edit && git push -f"
+  # Borrowed from https://gist.github.com/gnarf/5406589
+  gh-pr  = "!f() { git fetch -fu ${2:-origin} refs/pull/$1/head:pr/$1 && git checkout pr/$1; }; f"
+  gh-pr-clean = "!git for-each-ref refs/heads/pr/* --format='%(refname)' | while read ref ; do branch=${ref#refs/heads/} ; git branch -D $branch ; done"
+
